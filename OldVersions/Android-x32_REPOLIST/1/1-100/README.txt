@@ -2,10 +2,10 @@
 //// Android-x32_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32 project repositories by @seanpm2001
-//// As of 2025, Friday, February 14th
+//// As of 2025, Saturday, February 15th
 
 //// ----------------------------------------------------- \\\\
-//// Android x32 Project (159)
+//// Android x32 Project (169)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -127,14 +127,18 @@ https://github.com/seanpm2001/Android-x32_LiveCD_1.6B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_1.6C
 https://github.com/seanpm2001/Android-x32_LiveCD_1.6C_Docs
 
-//// Android x32 Android 2.0.x (Eclair) (10)
+//// Android x32 Android 2.0.x (Eclair) (14)
 
-//// Confirmed to exist: 10/10 (As of: 2025, February 14th)
+//// Confirmed to exist: 14/14 (As of: 2025, February 15th)
 
 https://github.com/seanpm2001/Android-x32_Android2.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android2.0_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android2.0_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android2.0_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android2.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.0A
 https://github.com/seanpm2001/Android-x32_LiveCD_2.0A_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.0B
@@ -142,17 +146,23 @@ https://github.com/seanpm2001/Android-x32_LiveCD_2.0B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.0C
 https://github.com/seanpm2001/Android-x32_LiveCD_2.0C_Docs
 
-//// Android x32 Android 2.1.x (Froyo) (7)
+//// Android x32 Android 2.1.x (Froyo) (13)
 
-//// Confirmed to exist: 7/7 (As of: 2025, February 10th)
+//// Confirmed to exist: 13/13 (As of: 2025, February 15th)
 
 https://github.com/seanpm2001/Android-x32_Android2.1_Heavy_Edition
 https://github.com/seanpm2001/Android-x32_Android2.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android2.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android2.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android2.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.1A
+https://github.com/seanpm2001/Android-x32_LiveCD_2.1A_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.1B
+https://github.com/seanpm2001/Android-x32_LiveCD_2.1B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.1C
+https://github.com/seanpm2001/Android-x32_LiveCD_2.1C_Docs
 
 //// Android x32 Android 2.2.x (Gingerbread) (7)
 
@@ -283,8 +293,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.4B
 https://github.com/seanpm2001/Android-x32_LiveCD_4.4C
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x32): 159
-//// 1+1+13+7+14+14+14+10+7+7+7+11+11+7+7+7+7+7+7=159
+//// Repo count (Android x32): 169
+//// 1+1+13+7+14+14+14+14+13+7+7+11+11+7+7+7+7+7+7=159
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -299,15 +309,15 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 163
-//// 159+4=163
+//// Total repo count: 173
+//// 169+4=173
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 6 (2025, Friday, February 14th at 04:25 pm PST)
-//// Line count (including blank lines and compiler line): 314
+//// File version: 7 (2025, Saturday, February 15th at 04:39 pm PST)
+//// Line count (including blank lines and compiler line): 324
 //// ----------------------------------------------------- \\\\
 
 //// End of file
