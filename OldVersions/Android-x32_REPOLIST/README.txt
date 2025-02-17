@@ -2,10 +2,10 @@
 //// Android-x32_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32 project repositories by @seanpm2001
-//// As of 2025, Saturday, February 15th
+//// As of 2025, Sunday, February 16th
 
 //// ----------------------------------------------------- \\\\
-//// Android x32 Project (169)
+//// Android x32 Project (179)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -146,11 +146,12 @@ https://github.com/seanpm2001/Android-x32_LiveCD_2.0B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.0C
 https://github.com/seanpm2001/Android-x32_LiveCD_2.0C_Docs
 
-//// Android x32 Android 2.1.x (Froyo) (13)
+//// Android x32 Android 2.1.x (Froyo) (14)
 
-//// Confirmed to exist: 13/13 (As of: 2025, February 15th)
+//// Confirmed to exist: 14/14 (As of: 2025, February 16th)
 
 https://github.com/seanpm2001/Android-x32_Android2.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android2.1_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.1_Vanilla_Edition
 https://github.com/seanpm2001/Android-x32_Android2.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.1_DeGoogled_Edition
@@ -164,28 +165,37 @@ https://github.com/seanpm2001/Android-x32_LiveCD_2.1B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.1C
 https://github.com/seanpm2001/Android-x32_LiveCD_2.1C_Docs
 
-//// Android x32 Android 2.2.x (Gingerbread) (7)
+//// Android x32 Android 2.2.x (Gingerbread) (14)
 
-//// Confirmed to exist: 7/7 (As of: 2025, February 10th)
+//// Confirmed to exist: 14/14 (As of: 2025, February 16th)
 
 https://github.com/seanpm2001/Android-x32_Android2.2_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android2.2_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.2_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android2.2_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.2_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android2.2_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android2.2_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android2.2_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.2A
+https://github.com/seanpm2001/Android-x32_LiveCD_2.2A_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.2B
+https://github.com/seanpm2001/Android-x32_LiveCD_2.2B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.2C
+https://github.com/seanpm2001/Android-x32_LiveCD_2.2C_Docs
 
-//// Android x32 Android 2.3.x (Gingerbread) (7)
+//// Android x32 Android 2.3.x (Gingerbread) (9)
 
-//// Confirmed to exist: 7/7 (As of: 2025, February 10th)
+//// Confirmed to exist: 9/9 (As of: 2025, February 16th)
 
 https://github.com/seanpm2001/Android-x32_Android2.3_Heavy_Edition
 https://github.com/seanpm2001/Android-x32_Android2.3_Vanilla_Edition
 https://github.com/seanpm2001/Android-x32_Android2.3_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x32_Android2.3_LiveCD_Edition
 https://github.com/seanpm2001/Android-x32_LiveCD_2.3A
+https://github.com/seanpm2001/Android-x32_LiveCD_2.3A_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.3B
+https://github.com/seanpm2001/Android-x32_LiveCD_2.3B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_2.3C
 
 //// Android x32 Android 3.0.x (Honeycomb) (11)
@@ -293,8 +303,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.4B
 https://github.com/seanpm2001/Android-x32_LiveCD_4.4C
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x32): 169
-//// 1+1+13+7+14+14+14+14+13+7+7+11+11+7+7+7+7+7+7=159
+//// Repo count (Android x32): 179
+//// 1+1+13+7+14+14+14+14+14+14+9+11+11+7+7+7+7+7+7=179
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -309,15 +319,15 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 173
-//// 169+4=173
+//// Total repo count: 187
+//// 179+4=187
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2025, Saturday, February 15th at 04:39 pm PST)
-//// Line count (including blank lines and compiler line): 324
+//// File version: 8 (2025, Sunday, February 16th at 09:11 pm PST)
+//// Line count (including blank lines and compiler line): 334
 //// ----------------------------------------------------- \\\\
 
 //// End of file
