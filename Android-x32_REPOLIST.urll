@@ -2,10 +2,10 @@
 //// Android-x32_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32 project repositories by @seanpm2001
-//// As of 2025, Tuesday, February 18th
+//// As of 2025, Wednesday, February 19th
 
 //// ----------------------------------------------------- \\\\
-//// Android x32 Project (195)
+//// Android x32 Project (203)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -241,12 +241,14 @@ https://github.com/seanpm2001/Android-x32_LiveCD_3.1B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_3.1C
 https://github.com/seanpm2001/Android-x32_LiveCD_3.1C_Docs
 
-//// Android x32 Android 3.2.x (Honeycomb) (12)
+//// Android x32 Android 3.2.x (Honeycomb) (14)
 
-//// Confirmed to exist: 12/12 (As of: 2025, February 18th)
+//// Confirmed to exist: 14/14 (As of: 2025, February 19th)
 
 https://github.com/seanpm2001/Android-x32_Android3.2_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android3.2_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android3.2_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android3.2_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android3.2_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x32_Android3.2_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android3.2_LiveCD_Edition
@@ -258,17 +260,23 @@ https://github.com/seanpm2001/Android-x32_LiveCD_3.2B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_3.2C
 https://github.com/seanpm2001/Android-x32_LiveCD_3.2C_Docs
 
-//// Android x32 Android 4.0.x (Ice Cream Sandwich) (7)
+//// Android x32 Android 4.0.x (Ice Cream Sandwich) (13)
 
-//// Confirmed to exist: 7/7 (As of: 2025, February 10th)
+//// Confirmed to exist: 13/13 (As of: 2025, February 19th)
 
 https://github.com/seanpm2001/Android-x32_Android4.0_Heavy_Edition
 https://github.com/seanpm2001/Android-x32_Android4.0_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android4.0_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.0_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android4.0_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.0_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android4.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_4.0A
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0A_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_4.0B
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_4.0C
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0C_Docs
 
 //// Android x32 Android 4.1.x (Jelly Bean) (7)
 
@@ -319,8 +327,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.4B
 https://github.com/seanpm2001/Android-x32_LiveCD_4.4C
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x32): 195
-//// 1+1+13+7+14+14+14+14+14+14+14+14+14+12+7+7+7+7+7=195
+//// Repo count (Android x32): 203
+//// 1+1+13+7+14+14+14+14+14+14+14+14+14+14+13+7+7+7+7=203
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -335,11 +343,11 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 199
-//// 195+4=199
+//// Total repo count: 207
+//// 203+4=207
 //// ----------------------------------------------------- \\\\
 
-//// Missing entries
+//// Missing entries (22)
 https://github.com/seanpm2001/Android-x32_Android0.6_Heavy_Edition
 https://github.com/seanpm2001/Android-x32_Android0.6_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android0.6_Vanilla_Edition
@@ -366,8 +374,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_1.0C_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 10 (2025, Tuesday, February 18th at 05:33 pm PST)
-//// Line count (including blank lines and compiler line): 374
+//// File version: 11 (2025, Wednesday, February 19th at 05:25 pm PST)
+//// Line count (including blank lines and compiler line): 382
 //// ----------------------------------------------------- \\\\
 
 //// End of file
