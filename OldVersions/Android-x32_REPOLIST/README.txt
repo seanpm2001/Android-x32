@@ -2,10 +2,10 @@
 //// Android-x32_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32 project repositories by @seanpm2001
-//// As of 2025, Wednesday, February 19th
+//// As of 2025, Friday, February 21st
 
 //// ----------------------------------------------------- \\\\
-//// Android x32 Project (203)
+//// Android x32 Project (211)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -260,11 +260,12 @@ https://github.com/seanpm2001/Android-x32_LiveCD_3.2B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_3.2C
 https://github.com/seanpm2001/Android-x32_LiveCD_3.2C_Docs
 
-//// Android x32 Android 4.0.x (Ice Cream Sandwich) (13)
+//// Android x32 Android 4.0.x (Ice Cream Sandwich) (14)
 
-//// Confirmed to exist: 13/13 (As of: 2025, February 19th)
+//// Confirmed to exist: 14/14 (As of: 2025, February 21st)
 
 https://github.com/seanpm2001/Android-x32_Android4.0_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android4.0_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.0_Vanilla_Edition
 https://github.com/seanpm2001/Android-x32_Android4.0_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.0_DeGoogled_Edition
@@ -278,17 +279,24 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.0B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_4.0C
 https://github.com/seanpm2001/Android-x32_LiveCD_4.0C_Docs
 
-//// Android x32 Android 4.1.x (Jelly Bean) (7)
+//// Android x32 Android 4.1.x (Jelly Bean) (14)
 
-//// Confirmed to exist: 7/7 (As of: 2025, February 10th)
+//// Confirmed to exist: 14/14 (As of: 2025, February 21st)
 
 https://github.com/seanpm2001/Android-x32_Android4.1_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android4.1_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.1_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android4.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.1_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android4.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.1_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android4.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_4.1A
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1A_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_4.1B
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_4.1C
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1C_Docs
 
 //// Android x32 Android 4.2.x (Jelly Bean) (7)
 
@@ -327,8 +335,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.4B
 https://github.com/seanpm2001/Android-x32_LiveCD_4.4C
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x32): 203
-//// 1+1+13+7+14+14+14+14+14+14+14+14+14+14+13+7+7+7+7=203
+//// Repo count (Android x32): 211
+//// 1+1+13+7+14+14+14+14+14+14+14+14+14+14+14+14+7+7+7=211
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -341,10 +349,10 @@ https://github.com/seanpm2001/Android-x32x64x128
 
 //// ----------------------------------------------------- \\\\
 //// Repo count (See also): 4
-//// 4+0
+//// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 207
-//// 203+4=207
+//// Total repo count: 215
+//// 211+4=215
 //// ----------------------------------------------------- \\\\
 
 //// Missing entries (22)
@@ -374,8 +382,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_1.0C_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 11 (2025, Wednesday, February 19th at 05:25 pm PST)
-//// Line count (including blank lines and compiler line): 382
+//// File version: 12 (2025, Friday, February 21st at 05:01 pm PST)
+//// Line count (including blank lines and compiler line): 390
 //// ----------------------------------------------------- \\\\
 
 //// End of file
