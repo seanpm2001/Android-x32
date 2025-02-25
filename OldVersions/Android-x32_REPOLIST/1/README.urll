@@ -2,10 +2,10 @@
 //// Android-x32_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32 project repositories by @seanpm2001
-//// As of 2025, Sunday, February 23rd
+//// As of 2025, Monday, February 24th
 
 //// ----------------------------------------------------- \\\\
-//// Android x32 Project (231)
+//// Android x32 Project (232)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -336,11 +336,12 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.3B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_4.3C
 https://github.com/seanpm2001/Android-x32_LiveCD_4.3C_Docs
 
-//// Android x32 Android 4.4.x (KitKat) (13)
+//// Android x32 Android 4.4.x (KitKat) (14)
 
-//// Confirmed to exist: 13/13 (As of: 2025, February 23rd)
+//// Confirmed to exist: 14/14 (As of: 2025, February 24th)
 
 https://github.com/seanpm2001/Android-x32_Android4.4_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android4.4_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.4_Vanilla_Edition
 https://github.com/seanpm2001/Android-x32_Android4.4_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android4.4_DeGoogled_Edition
@@ -355,8 +356,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.4C
 https://github.com/seanpm2001/Android-x32_LiveCD_4.4C_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x32): 231
-//// 1+1+13+7+14+14+14+14+14+14+14+14+14+14+14+14+14+14+13=221
+//// Repo count (Android x32): 232
+//// 1+1+13+7+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14=232
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -371,11 +372,11 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 235
-//// 231+4=235
+//// Total repo count: 236
+//// 232+4=236
 //// ----------------------------------------------------- \\\\
 
-//// Missing entries (23)
+//// Missing entries (22)
 https://github.com/seanpm2001/Android-x32_Android0.6_Heavy_Edition
 https://github.com/seanpm2001/Android-x32_Android0.6_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android0.6_Vanilla_Edition
@@ -398,12 +399,11 @@ https://github.com/seanpm2001/Android-x32_Android1.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_1.0A_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_1.0B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_1.0C_Docs
-https://github.com/seanpm2001/Android-x32_Android4.4_Heavy_Edition_Docs
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 14 (2025, Sunday, February 23rd at 06:46 pm PST)
+//// File version: 15 (2025, Monday, February 24th at 05:00 pm PST)
 //// Line count (including blank lines and compiler line): 411
 //// ----------------------------------------------------- \\\\
 
