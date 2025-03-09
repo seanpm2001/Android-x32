@@ -2,10 +2,10 @@
 //// Android-x32_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32 project repositories by @seanpm2001
-//// As of 2025, Monday, February 24th
+//// As of 2025, Saturday, March 8th
 
 //// ----------------------------------------------------- \\\\
-//// Android x32 Project (232)
+//// Android x32 Project (242)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -35,9 +35,20 @@ https://github.com/seanpm2001/Android-x32_Docs
 
 //// Coming soon
 
-//// Android x64 Android 0.6.x (A) (0)
+//// Android x64 Android 0.6.x (A) (10)
 
-//// Coming soon
+//// Confirmed to exist: 10/10 (As of: 2025, March 8th)
+
+https://github.com/seanpm2001/Android-x32_Android0.6_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android0.6_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.6_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android0.6_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.6_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android0.6_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.6_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android0.6_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x32_LiveCD_0.6A
+https://github.com/seanpm2001/Android-x32_LiveCD_0.6A_Docs
 
 //// Android x32 Android 0.9.x (A) (13)
 
@@ -376,17 +387,21 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// 232+4=236
 //// ----------------------------------------------------- \\\\
 
-//// Missing entries (22)
-https://github.com/seanpm2001/Android-x32_Android0.6_Heavy_Edition
-https://github.com/seanpm2001/Android-x32_Android0.6_Heavy_Edition_Docs
-https://github.com/seanpm2001/Android-x32_Android0.6_Vanilla_Edition
-https://github.com/seanpm2001/Android-x32_Android0.6_Vanilla_Edition_Docs
-https://github.com/seanpm2001/Android-x32_Android0.6_DeGoogled_Edition
-https://github.com/seanpm2001/Android-x32_Android0.6_DeGoogled_Edition_Docs
-https://github.com/seanpm2001/Android-x32_Android0.6_LiveCD_Edition
-https://github.com/seanpm2001/Android-x32_Android0.6_LiveCD_Edition_Docs
-https://github.com/seanpm2001/Android-x32_LiveCD_0.6A
-https://github.com/seanpm2001/Android-x32_LiveCD_0.6A_Docs
+//// Missing entries (26)
+https://github.com/seanpm2001/Android-x32_Android0.5_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android0.5_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.5_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android0.5_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.5_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android0.5_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.5_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android0.5_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x32_LiveCD_0.5A
+https://github.com/seanpm2001/Android-x32_LiveCD_0.5A_Docs
+https://github.com/seanpm2001/Android-x32_LiveCD_0.5B
+https://github.com/seanpm2001/Android-x32_LiveCD_0.5B_Docs
+https://github.com/seanpm2001/Android-x32_LiveCD_0.5C
+https://github.com/seanpm2001/Android-x32_LiveCD_0.5C_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_0.6B
 https://github.com/seanpm2001/Android-x32_LiveCD_0.6B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_0.6C
@@ -403,8 +418,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_1.0C_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 15 (2025, Monday, February 24th at 05:00 pm PST)
-//// Line count (including blank lines and compiler line): 411
+//// File version: 16 (2025, Saturday, March 8th at 06:01 pm PST)
+//// Line count (including blank lines and compiler line): 426
 //// ----------------------------------------------------- \\\\
 
 //// End of file
