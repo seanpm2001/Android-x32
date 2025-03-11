@@ -2,10 +2,10 @@
 //// Android-x32_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32 project repositories by @seanpm2001
-//// As of 2025, Sunday, March 9th
+//// As of 2025, Monday, March 10th
 
 //// ----------------------------------------------------- \\\\
-//// Android x32 Project (252)
+//// Android x32 Project (254)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -73,22 +73,24 @@ https://github.com/seanpm2001/Android-x32_LiveCD_0.9C
 https://github.com/seanpm2001/Android-x32_LiveCD_0.9C_Docs
 https://github.com/seanpm2001/Android-x32_Android0.9_Heavy_Edition_Docs
 
-//// Android x32 Android 1.0.x (B) (12)
+//// Android x32 Android 1.0.x (B) (14)
 
-//// Confirmed to exist: 12/12 (As of: 2025, March 9th)
+//// Confirmed to exist: 14/14 (As of: 2025, March 10th)
 
 https://github.com/seanpm2001/Android-x32_Android1.0_Heavy_Edition
-https://github.com/seanpm2001/Android-x32_Android1.0_Vanilla_Edition
-https://github.com/seanpm2001/Android-x32_Android1.0_DeGoogled_Edition
-https://github.com/seanpm2001/Android-x32_Android1.0_LiveCD_Edition
-https://github.com/seanpm2001/Android-x32_LiveCD_1.0A
-https://github.com/seanpm2001/Android-x32_LiveCD_1.0B
-https://github.com/seanpm2001/Android-x32_LiveCD_1.0C
 https://github.com/seanpm2001/Android-x32_Android1.0_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android1.0_Vanilla_Edition
 https://github.com/seanpm2001/Android-x32_Android1.0_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android1.0_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x32_Android1.0_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android1.0_LiveCD_Edition
 https://github.com/seanpm2001/Android-x32_Android1.0_LiveCD_Edition_Docs
-https://github.com/seanpm2001/Android-x32_LiveCD_1.0A_DocS
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0A
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0A_Docs
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0B
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0B_Docs
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0C
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0C_Docs
 
 //// Android x32 Android 1.1.x (Petit Four) (14)
 
@@ -377,8 +379,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.4C
 https://github.com/seanpm2001/Android-x32_LiveCD_4.4C_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x32): 252
-//// 1+1+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14=252
+//// Repo count (Android x32): 254
+//// 1+1+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14=254
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -393,11 +395,11 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 256
-//// 252+4=256
+//// Total repo count: 258
+//// 254+4=258
 //// ----------------------------------------------------- \\\\
 
-//// Missing entries (16)
+//// Missing entries (14)
 https://github.com/seanpm2001/Android-x32_Android0.5_Heavy_Edition
 https://github.com/seanpm2001/Android-x32_Android0.5_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x32_Android0.5_Vanilla_Edition
@@ -412,13 +414,11 @@ https://github.com/seanpm2001/Android-x32_LiveCD_0.5B
 https://github.com/seanpm2001/Android-x32_LiveCD_0.5B_Docs
 https://github.com/seanpm2001/Android-x32_LiveCD_0.5C
 https://github.com/seanpm2001/Android-x32_LiveCD_0.5C_Docs
-https://github.com/seanpm2001/Android-x32_LiveCD_1.0B_Docs
-https://github.com/seanpm2001/Android-x32_LiveCD_1.0C_Docs
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 17 (2025, Sunday, March 9th at 05:29 pm PST)
+//// File version: 18 (2025, Monday, March 10th at 06:09 pm PST)
 //// Line count (including blank lines and compiler line): 426
 //// ----------------------------------------------------- \\\\
 
