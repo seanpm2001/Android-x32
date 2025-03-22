@@ -2,10 +2,10 @@
 //// Android-x32_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32 project repositories by @seanpm2001
-//// As of 2025, Monday, March 10th
+//// As of 2025, Saturday, March 22nd
 
 //// ----------------------------------------------------- \\\\
-//// Android x32 Project (254)
+//// Android x32 Project (264)
 //// ----------------------------------------------------- \\\\
 
 //// Repository order for each Android version
@@ -31,9 +31,18 @@ https://github.com/seanpm2001/Android-x32
 
 https://github.com/seanpm2001/Android-x32_Docs
 
-//// Android x64 Android 0.5.x (A) (0)
+//// Android x64 Android 0.5.x (A) (10)
 
-//// Coming soon
+https://github.com/seanpm2001/Android-x32_Android0.5_Heavy_Edition
+https://github.com/seanpm2001/Android-x32_Android0.5_Heavy_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.5_Vanilla_Edition
+https://github.com/seanpm2001/Android-x32_Android0.5_Vanilla_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.5_DeGoogled_Edition
+https://github.com/seanpm2001/Android-x32_Android0.5_DeGoogled_Edition_Docs
+https://github.com/seanpm2001/Android-x32_Android0.5_LiveCD_Edition
+https://github.com/seanpm2001/Android-x32_Android0.5_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x32_LiveCD_0.5A
+https://github.com/seanpm2001/Android-x32_LiveCD_0.5A_Docs
 
 //// Android x64 Android 0.6.x (A) (14)
 
@@ -379,8 +388,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_4.4C
 https://github.com/seanpm2001/Android-x32_LiveCD_4.4C_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x32): 254
-//// 1+1+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14=254
+//// Repo count (Android x32): 264
+//// 1+1+10+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14+14=264
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -418,8 +427,8 @@ https://github.com/seanpm2001/Android-x32_LiveCD_0.5C_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 18 (2025, Monday, March 10th at 06:09 pm PST)
-//// Line count (including blank lines and compiler line): 426
+//// File version: 19 (2025, Saturday, March 22nd at 03:43 pm PST)
+//// Line count (including blank lines and compiler line): 435
 //// ----------------------------------------------------- \\\\
 
 //// End of file
